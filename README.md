@@ -1,0 +1,2 @@
+# vehicleRecognitionSystemBasedOnDeepLearning
+深度学习大模型汽车识别，汽车车牌、车牌颜色、车身颜色，车型年份、车型这个应该取名叫什么比较专业
