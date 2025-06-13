@@ -63,13 +63,19 @@
 ![image](https://github.com/user-attachments/assets/c6f61e7d-06f2-4d31-be59-32cf56225658)
 ![image](https://github.com/user-attachments/assets/ef34bb38-9c4b-4172-bd2e-a38b4530bbd6)
 
-## 深度学习大模型运行效果展示（二：可视化运行界面）
-
-
-
-
-
-
+## 深度学习大模型运行效果展示（二：GUI可视化运行界面）
+1.启动程序并加装模型成功
+![image](https://github.com/user-attachments/assets/a3be6c8e-63bf-4c88-93c2-faed3d093008)
+2.支持图片识别和摄像头识别以及视频视频
+![image](https://github.com/user-attachments/assets/ca49626b-4002-4fcf-b9d4-dc682365b62f)
+3.上传图片识别
+![image](https://github.com/user-attachments/assets/ad620be5-002a-4b0d-86db-db9d4dadf66c)
+![image](https://github.com/user-attachments/assets/01b952c0-17f0-47a1-b006-708f19491552)
+![image](https://github.com/user-attachments/assets/ee14c132-eff2-49f4-9453-353707ce5a86)
+4.支持细节展示（图片放大，详细查看）
+![image](https://github.com/user-attachments/assets/4fb7f4a9-1cff-4269-9797-b084861e95a7)
+![image](https://github.com/user-attachments/assets/473f3580-99a7-44cc-845f-ecec560c7943)
+![image](https://github.com/user-attachments/assets/704a12c5-2d89-425e-bc8a-91678f4680bc)
 
 ## 环境要求
 
