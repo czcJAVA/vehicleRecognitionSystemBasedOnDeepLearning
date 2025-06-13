@@ -52,30 +52,27 @@
 
 ## 深度学习大模型运行效果展示（一：GUI可视化运行界面）
 1.启动程序并加装模型成功
-![image](https://github.com/user-attachments/assets/a3be6c8e-63bf-4c88-93c2-faed3d093008)
+![contents](pictrue/picture1.png)
 2.支持图片识别和摄像头识别以及视频视频
-![image](https://github.com/user-attachments/assets/ca49626b-4002-4fcf-b9d4-dc682365b62f)
+![contents](pictrue/picture2.png)
 3.上传图片识别
-![image](https://github.com/user-attachments/assets/ad620be5-002a-4b0d-86db-db9d4dadf66c)
-![image](https://github.com/user-attachments/assets/01b952c0-17f0-47a1-b006-708f19491552)
-![image](https://github.com/user-attachments/assets/ee14c132-eff2-49f4-9453-353707ce5a86)
+![contents](pictrue/picture3.png)
+![contents](pictrue/picture4.png)
+![contents](pictrue/picture5.png)
 4.支持细节展示（图片放大，详细查看）
-![image](https://github.com/user-attachments/assets/4fb7f4a9-1cff-4269-9797-b084861e95a7)
-![image](https://github.com/user-attachments/assets/473f3580-99a7-44cc-845f-ecec560c7943)
-![image](https://github.com/user-attachments/assets/704a12c5-2d89-425e-bc8a-91678f4680bc)
-
+![contents](pictrue/picture6.png)
+![contents](pictrue/picture7.png)
+![contents](pictrue/picture8.png)
 ## 深度学习大模型运行效果展示（二：批量效果运行）
 1.初始化数据，提前准备要识别的图片
-![image](https://github.com/user-attachments/assets/cbeb7225-8cd8-4878-b968-e12c177223b6)
+![contents](pictrue/picture9.png)
 2.加载模型并启动程序
-![image](https://github.com/user-attachments/assets/7e499a9d-24e7-428c-a85c-7ea73d16e68c)
+![contents](pictrue/picture10.png)
 3.运行成功，共花费7秒左右时间识别完所有图片
-![image](https://github.com/user-attachments/assets/e5a205eb-d6d3-4349-a86b-ef61ad0b67a5)
+![contents](pictrue/picture11.png)
 4.效果展示
-![image](https://github.com/user-attachments/assets/59b1e3a4-49c7-4010-a243-143cab9621ef)
-![image](https://github.com/user-attachments/assets/c6f61e7d-06f2-4d31-be59-32cf56225658)
-![image](https://github.com/user-attachments/assets/ef34bb38-9c4b-4172-bd2e-a38b4530bbd6)
-
+![contents](pictrue/picture12.png)
+![contents](pictrue/picture13.png)
 
 ## 环境要求
 
