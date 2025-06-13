@@ -51,6 +51,26 @@
    - 非极大值抑制(NMS)：用于过滤重复检测框
    - 图像预处理：缩放、归一化等
 
+## 深度学习大模型运行效果展示（一：批量效果运行）
+1.初始化数据，提前准备要识别的图片
+![image](https://github.com/user-attachments/assets/cbeb7225-8cd8-4878-b968-e12c177223b6)
+2.加载模型并启动程序
+![image](https://github.com/user-attachments/assets/7e499a9d-24e7-428c-a85c-7ea73d16e68c)
+3.运行成功，共花费7秒左右时间识别完所有图片
+![image](https://github.com/user-attachments/assets/e5a205eb-d6d3-4349-a86b-ef61ad0b67a5)
+4.效果展示
+![image](https://github.com/user-attachments/assets/59b1e3a4-49c7-4010-a243-143cab9621ef)
+![image](https://github.com/user-attachments/assets/c6f61e7d-06f2-4d31-be59-32cf56225658)
+![image](https://github.com/user-attachments/assets/ef34bb38-9c4b-4172-bd2e-a38b4530bbd6)
+
+## 深度学习大模型运行效果展示（二：可视化运行界面）
+
+
+
+
+
+
+
 ## 环境要求
 
 根据requirements.txt，项目依赖以下主要库：
@@ -76,12 +96,4 @@
 5. 对检测到的车辆使用颜色识别和车型识别模型进行分析
 6. 将结果可视化显示在GUI界面上
 
-这是一个综合性的车辆和车牌识别系统，结合了目标检测、图像分类和字符识别等多种计算机视觉技术，通过友好的用户界面提供了完整的解决方案。
-
-
-所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
-深度学习大模型汽车识别
-基于深度学习yolov5 yolov7 yolov8车辆检测，openCV视觉
-车型识别，基于crnn lprnet的车牌识别，车辆品牌识别，
-可以识别车辆型号，车辆品牌，车辆颜色，同时支持多种车牌识别**
 
